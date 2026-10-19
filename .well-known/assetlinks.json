@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.hush.call",
+      "sha256_cert_fingerprints": ["B4:F5:97:E7:70:15:8B:5A:DB:91:12:80:B6:A8:D4:13:A0:26:E3:0E:D8:63:70:B6:F9:15:DC:BF:A9:83:F8:23"]
+    }
+  }
+]
